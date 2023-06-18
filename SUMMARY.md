@@ -113,3 +113,4 @@
   * [Sequencer Handler Addresses](sequencer-crosstalk-library/deployment-addresses/sequencer-handler-addresses.md)
   * [ERC-20 Handler Addresses](sequencer-crosstalk-library/deployment-addresses/erc-20-handler-addresses.md)
   * [Reserve Handler Addresses](sequencer-crosstalk-library/deployment-addresses/reserve-handler-addresses.md)
+  * [Onesplit Addresses](sequencer-crosstalk-library/deployment-addresses/onesplit-addresses.md)
